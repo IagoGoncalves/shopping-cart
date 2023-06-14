@@ -7,7 +7,7 @@
     cursor: pointer;
     position: relative;
     transition: all .2s;
-    /* margin: 0 auto; */
+    margin: 0 auto;
 }
 .card__image{
     width: 100%;
